@@ -1,0 +1,11 @@
+alert()-used to assist user what is happening
+confirm() and prompt()assist user to interact with website
+method can be chained to fncts
+eg alert("username").toUpperCase();
+let myName=prompt("enter name").toLowerCase();
+
+
+passing intergers by changing the data typeof the prompt given by the user
+for whole numvber passing
+*parseInt()
+aprseFloat()-for decimal
